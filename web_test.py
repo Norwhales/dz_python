@@ -7,11 +7,11 @@ client = app.test_client()
 movieList = [
     {
         'title': "The LightHouse",
-        'description': "Very important stuff"
+        'description': "some text"
     },
     {
         'title': "Avengers",
-        'description': "Also very important stuff"
+        'description': "some text"
     }
 ]
 
